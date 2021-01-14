@@ -50,8 +50,6 @@ export default function SearchEngine(){
             setCurrentSKey(searchKey);
             setStartNum(0);
         }
-
-        console.log(result);
     }
 
     async function fetchNextPage(startNum){
@@ -62,8 +60,6 @@ export default function SearchEngine(){
         if(result !== null){
             setSearchResults(result.items);
         }
-
-        console.log(result);
     }
 
     useEffect(() => {
