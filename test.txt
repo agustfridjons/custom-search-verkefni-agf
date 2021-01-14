@@ -1,0 +1,248 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - cat",
+        "totalResults": "8540",
+        "searchTerms": "cat",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "dc485e81ffcb46c92",
+        "searchType": "image"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - cat",
+        "totalResults": "8540",
+        "searchTerms": "cat",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "dc485e81ffcb46c92",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "Google.is"
+  },
+  "searchInformation": {
+    "searchTime": 0.411297,
+    "formattedSearchTime": "0.41",
+    "totalResults": "8540",
+    "formattedTotalResults": "8,540"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "US4965199A - Preparation of functional human factor VIII in ...",
+      "htmlTitle": "US4965199A - Preparation of functional human factor VIII in ...",
+      "link": "https://patentimages.storage.googleapis.com/c8/0f/c5/95b91cccec8208/US4965199-drawings-page-14.png",
+      "displayLink": "google.is",
+      "snippet": "US4965199A - Preparation of functional human factor VIII in ...",
+      "htmlSnippet": "US4965199A - Preparation of functional human factor VIII in ...",
+      "mime": "image/png",
+      "fileFormat": "image/png",
+      "image": {
+        "contextLink": "https://google.is/patents/US4965199",
+        "height": 3408,
+        "width": 2320,
+        "byteSize": 78277,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyD7cvAexf2tWK-P1UhPg_HCiChpNvW0eRe0kR-y1FIc7u6Oirz46vn7c&s",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 102
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "WO1999048568A1 - Improved golf ball utilizing silicone materials ...",
+      "htmlTitle": "WO1999048568A1 - Improved golf ball utilizing silicone materials ...",
+      "link": "https://patentimages.storage.googleapis.com/c1/97/e1/0cde5e67ded945/imgf000059_0001.png",
+      "displayLink": "google.is",
+      "snippet": "WO1999048568A1 - Improved golf ball utilizing silicone materials ...",
+      "htmlSnippet": "WO1999048568A1 - Improved golf ball utilizing silicone materials ...",
+      "mime": "image/png",
+      "fileFormat": "image/png",
+      "image": {
+        "contextLink": "https://google.is/patents/WO1999048568A1",
+        "height": 1281,
+        "width": 443,
+        "byteSize": 4891,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpZDCyvn-7VtMQblqB5yDhorHi-nXVsUxwHjTy7x78f1ZXQjP62HWP-Q&s",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 52
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "US4965199A - Preparation of functional human factor VIII in ...",
+      "htmlTitle": "US4965199A - Preparation of functional human factor VIII in ...",
+      "link": "https://patentimages.storage.googleapis.com/31/09/37/fa68a5fac9632f/US4965199-drawings-page-17.png",
+      "displayLink": "google.is",
+      "snippet": "US4965199A - Preparation of functional human factor VIII in ...",
+      "htmlSnippet": "US4965199A - Preparation of functional human factor VIII in ...",
+      "mime": "image/png",
+      "fileFormat": "image/png",
+      "image": {
+        "contextLink": "https://google.is/patents/US4965199",
+        "height": 3408,
+        "width": 2320,
+        "byteSize": 79884,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWZTWdhhnRJR9x7upM51qewEMxTzKQQeqUx1YPBCpBdrPNtaxcxxrTWI&s",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 102
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "US4965199A - Preparation of functional human factor VIII in ...",
+      "htmlTitle": "US4965199A - Preparation of functional human factor VIII in ...",
+      "link": "https://patentimages.storage.googleapis.com/2e/17/9a/ef3c34d868f444/US4965199-drawings-page-16.png",
+      "displayLink": "google.is",
+      "snippet": "US4965199A - Preparation of functional human factor VIII in ...",
+      "htmlSnippet": "US4965199A - Preparation of functional human factor VIII in ...",
+      "mime": "image/png",
+      "fileFormat": "image/png",
+      "image": {
+        "contextLink": "https://google.is/patents/US4965199",
+        "height": 3408,
+        "width": 2320,
+        "byteSize": 80505,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9kkxmWaT-Czgo0rVW6Zt_YCvR4h5_X0VdJzdjc5PrVVFUif-Z4Taif4c&s",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 102
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "US4965199A - Preparation of functional human factor VIII in ...",
+      "htmlTitle": "US4965199A - Preparation of functional human factor VIII in ...",
+      "link": "https://patentimages.storage.googleapis.com/c9/7f/58/0379bb3b13183c/US4965199-drawings-page-19.png",
+      "displayLink": "google.is",
+      "snippet": "US4965199A - Preparation of functional human factor VIII in ...",
+      "htmlSnippet": "US4965199A - Preparation of functional human factor VIII in ...",
+      "mime": "image/png",
+      "fileFormat": "image/png",
+      "image": {
+        "contextLink": "https://google.is/patents/US4965199",
+        "height": 3408,
+        "width": 2320,
+        "byteSize": 80253,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSti8aQ3Zh47noAJIbQSpKAf1JXdkcjlzC0MoDTEvJXHmsNSFzO0R8WQZg&s",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 102
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "US4965199A - Preparation of functional human factor VIII in ...",
+      "htmlTitle": "US4965199A - Preparation of functional human factor VIII in ...",
+      "link": "https://patentimages.storage.googleapis.com/d8/c1/f4/f777a20ed658ba/US4965199-drawings-page-20.png",
+      "displayLink": "google.is",
+      "snippet": "US4965199A - Preparation of functional human factor VIII in ...",
+      "htmlSnippet": "US4965199A - Preparation of functional human factor VIII in ...",
+      "mime": "image/png",
+      "fileFormat": "image/png",
+      "image": {
+        "contextLink": "https://google.is/patents/US4965199",
+        "height": 3408,
+        "width": 2320,
+        "byteSize": 74084,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAJxb2IKLZQsn-Pm5I46BXtHGnTPWchGuQLmEkpigQO81QHveuM9bAeg&s",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 102
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "US4965199A - Preparation of functional human factor VIII in ...",
+      "htmlTitle": "US4965199A - Preparation of functional human factor VIII in ...",
+      "link": "https://patentimages.storage.googleapis.com/61/21/11/ca62131cd1fbda/US4965199-drawings-page-18.png",
+      "displayLink": "google.is",
+      "snippet": "US4965199A - Preparation of functional human factor VIII in ...",
+      "htmlSnippet": "US4965199A - Preparation of functional human factor VIII in ...",
+      "mime": "image/png",
+      "fileFormat": "image/png",
+      "image": {
+        "contextLink": "https://google.is/patents/US4965199",
+        "height": 3408,
+        "width": 2320,
+        "byteSize": 82535,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1a5o6bEDQ0rxBpj8HLbxC2oES7SZ3u41b7quZ_KCEtJjuYxeydqMXEQ&s",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 102
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "US4965199A - Preparation of functional human factor VIII in ...",
+      "htmlTitle": "US4965199A - Preparation of functional human factor VIII in ...",
+      "link": "https://patentimages.storage.googleapis.com/4a/96/a4/0ff4fd048fa29b/US4965199-drawings-page-13.png",
+      "displayLink": "google.is",
+      "snippet": "US4965199A - Preparation of functional human factor VIII in ...",
+      "htmlSnippet": "US4965199A - Preparation of functional human factor VIII in ...",
+      "mime": "image/png",
+      "fileFormat": "image/png",
+      "image": {
+        "contextLink": "https://google.is/patents/US4965199",
+        "height": 3408,
+        "width": 2320,
+        "byteSize": 77326,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy0vasA7FtwIImihNmLFb5Pp-RLGB_TvD5xiPOUvnUpIXt95U4BjvGUw&s",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 102
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "The Best Cat in the World - Lesléa Newman - Google Books",
+      "htmlTitle": "The Best \u003cb\u003eCat\u003c/b\u003e in the World - Lesléa Newman - Google Books",
+      "link": "https://books.google.com/books/content?id=_Wm4bXUUmDMC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE730zPvC8PHjKqdvum5LIdFXPlDTwuw92AfXlzB_iH1FI8iJxJC3xsYByoGDyhBv09oEvDwQkl-Ub027yqzPre7cYSfWf01sr0dqnMRcEQMy8Oi1bwHbTDD2XAFESCAT7_wDds7B",
+      "displayLink": "books.google.is",
+      "snippet": "The Best Cat in the World - Lesléa Newman - Google Books",
+      "htmlSnippet": "The Best \u003cb\u003eCat\u003c/b\u003e in the World - Lesléa Newman - Google Books",
+      "mime": "image/",
+      "fileFormat": "image/",
+      "image": {
+        "contextLink": "http://books.google.is/books?id=_Wm4bXUUmDMC",
+        "height": 156,
+        "width": 128,
+        "byteSize": 9632,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMDm3f2gWpnqbiW-kqlEA5sO6L95S72eB7_akHy-WuuJMgvEtvR5Ns&s",
+        "thumbnailHeight": 97,
+        "thumbnailWidth": 80
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "US5891718A - Tetracycline inducible/repressible systems - Google ...",
+      "htmlTitle": "US5891718A - Tetracycline inducible/repressible systems - Google ...",
+      "link": "https://patentimages.storage.googleapis.com/7d/b7/11/2795af5af35ee9/US5891718-drawings-page-3.png",
+      "displayLink": "google.is",
+      "snippet": "US5891718A - Tetracycline inducible/repressible systems - Google ...",
+      "htmlSnippet": "US5891718A - Tetracycline inducible/repressible systems - Google ...",
+      "mime": "image/png",
+      "fileFormat": "image/png",
+      "image": {
+        "contextLink": "https://google.is/patents/US5891718",
+        "height": 3408,
+        "width": 2320,
+        "byteSize": 48915,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyUefWhWzsRGkxgK5jlCE2pgS6O_Odav23rRkLU3mBdPM0-YdDOcA7yQ&s",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 102
+      }
+    }
+  ]
+}

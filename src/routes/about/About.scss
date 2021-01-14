@@ -1,0 +1,41 @@
+@import './../../config.scss';
+
+.aboutContainer {
+  margin: auto;
+  width: 50%;
+  transition: 0.5s ease-in-out;
+  margin-top: 125px;
+  margin-bottom: $gutter * 2;
+  &__header {
+    font-size: $heading-size * 1.5;
+    font-weight: 800;
+    color: $color-dark3;
+    text-shadow: 1px 2px 3px rgba($color-dark1, $alpha: 0.5);
+  }
+  &__card {
+    background-image: linear-gradient(
+      to bottom right,
+      rgba($color-dark1, $alpha: 0.6) 20%,
+      rgba($color-dark1, $alpha: 0.5) 100%
+    );
+    padding: $gutter;
+    box-shadow: 2px 0px 10px 5px #00000030;
+    margin-top: $gutter;
+    &__header {
+      font-size: $heading-size;
+      font-weight: 800;
+      color: $color-dark3;
+    }
+    &__text {
+      color: rgba($color-dark3, $alpha: 0.9);
+      padding-left: $gutter;
+      a {
+        color: $color-light2;
+        transition: 0.2s ease;
+        &:hover {
+          text-shadow: 1px 2px 3px rgba($color-dark1, $alpha: 0.7);
+        }
+      }
+    }
+  }
+}

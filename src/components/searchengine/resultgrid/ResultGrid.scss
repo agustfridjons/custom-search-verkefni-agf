@@ -1,0 +1,28 @@
+@import '../../../config.scss';
+
+.countContainer {
+}
+
+.grid {
+  width: 100%;
+  display: inline-grid;
+  justify-self: center;
+  grid-column-gap: $gutter;
+  grid-row-gap: $gutter/2;
+  grid-template-columns: auto auto auto;
+  margin: $gutter 0px;
+  &__item {
+    justify-self: center;
+    align-self: center;
+    &__img {
+      width: 97%;
+      box-shadow: 1px 0px 20px 5px #00000050;
+      transition: 0.5s ease;
+      &:hover {
+        width: 99%;
+
+        box-shadow: 1px 0px 25px 5px #00000080;
+      }
+    }
+  }
+}

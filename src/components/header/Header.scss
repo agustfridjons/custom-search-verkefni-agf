@@ -1,0 +1,32 @@
+@import '../../config.scss';
+
+.header {
+  width: 100%;
+  z-index: 9999;
+  background-color: rgba($color-dark3, $alpha: 0.9);
+  position: fixed;
+  &__content {
+    max-width: $max-width;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 100%;
+    margin: $gutter/2 auto;
+    padding: 0px $gutter;
+    color: $color-light2;
+    font-size: $font-size;
+    .a {
+      text-decoration: none;
+    }
+    &__nav {
+      color: $color-light2;
+      padding: 5px 10px;
+      border: 2px solid $color-light2;
+      border-radius: 50px;
+      transition: 0.25s ease;
+      &:hover {
+        background-color: $color-dark1;
+      }
+    }
+  }
+}

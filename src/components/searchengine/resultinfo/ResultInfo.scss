@@ -1,0 +1,47 @@
+@import '../../../config.scss';
+
+.countContainer {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  color: rgba($color-dark3, $alpha: 0.7);
+  margin-top: $gutter;
+  &__total {
+    display: flex;
+    align-items: center;
+    padding: 0px 10px;
+    color: rgba($color-light1, $alpha: 0.9);
+    background-image: linear-gradient(
+      to bottom right,
+      $color-dark2 40%,
+      rgba($color-dark2, 0.7) 100%
+    );
+    box-shadow: 2px 0px 10px 5px #00000010;
+  }
+  &__counter {
+    display: flex;
+    align-items: center;
+    transition: 0.5s ease-in-out;
+    border-radius: 50px;
+    &__arr {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: $font-size * 2;
+      font-weight: 900;
+      width: 35px;
+      height: 35px;
+      color: $color-light2;
+      border: 3px solid $color-light2;
+      border-radius: 50px;
+      background-color: $color-dark2;
+      margin: 0px 10px;
+      cursor: pointer;
+      transition: 0.5s ease-in-out;
+      &:hover {
+        background-color: rgba($color-dark3, $alpha: 0.7);
+        box-shadow: 2px 0px 10px 5px #00000020;
+      }
+    }
+  }
+}

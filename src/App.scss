@@ -1,0 +1,19 @@
+@import './config.scss';
+
+input:focus {
+  outline: none;
+}
+select:focus {
+  outline: none;
+}
+button:focus {
+  outline: none;
+}
+.mainpage {
+  max-width: $max-width;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  font-family: $font-family-main;
+}
