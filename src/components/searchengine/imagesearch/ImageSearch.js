@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 import IconB from '../../../images/icon1.svg'
 import IconW from '../../../images/icon2.svg'
@@ -12,7 +12,7 @@ export default function ImageSearch(props){
 
     return(
         <form className={className} onSubmit={onSubmit}>
-            <label className={`${className}__label`} for="searchkey">Myndaleit</label>
+            <label className={`${className}__label`} htmlFor="searchkey">Myndaleit</label>
             <div className={`${className}__bar`}>
                 <input 
                     className={`${className}__bar__input`} 
