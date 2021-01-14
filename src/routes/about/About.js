@@ -11,18 +11,18 @@ export default function About(){
             <div className="aboutContainer__card">
                 <div className="aboutContainer__card__header">Umhverfi</div>
                 <div className="aboutContainer__card__text" > 
-                    <p>Síðan er útfærð með React/Javascript fyrir framenda.</p> 
-                    <p>Þar sem ekki var þörf fyrir Gagnagrunni eða þungum stórum fyrirspurnum er "bakendi" unnin í einu plane Javascript skrá sem sér um API köll.</p>
+                    <p>Síðan er útfærð með React/Javascript fyrir frammenda.</p> 
+                    <p>Þar sem verkefnið krafðist ekki gagnagrunns eða þungum fyrirspurnum er "bakendi" unninn í einni Javascript skrá sem sér um API köll.</p>
                     <p>Útlit er útfært með Sass</p>
                 </div>
             </div>
             <div className="aboutContainer__card">
                 <div className="aboutContainer__card__header">Virkni</div>
                 <div className="aboutContainer__card__text" > 
-                    <p>Síðan skiptis í tvær megin síður leitarvélina og upplýsinga síðu. </p>
-                    <p>Leitarvélin sækir myndir í gegnum 'Google Custom Search API' sem skilar tilbaka myndum af 'Google.com' eftir leitarorði. Þar sem ég er ekki með fullan aðgang að API-inu gét ég aðeins sótt 10 myndir í einu kalli. Til að bæta upp fyrir það er hægt að sækja næstu 10 með því að smella á örvatakkana sem byrtast fyrir ofan myndirnar ef fleiri myndir eru í boði.</p>
-                    <p>Leitarvélin hefur tvö mismunandi útlit. Fyrra byrtist first þegar síðan er keyrð upp eða þegar flakkað er á milli síðna. Hitt byrtist þegar búið er að leita að myndum.</p>
-                    <p>Síðan er ekki full testuð þannig enþá er hægt að lenda í böggum :)</p>
+                    <p>Síðan skiptis í tvær megin síður, leitarvél og upplýsingasíðu. </p>
+                    <p>Leitarvélin sækir myndir í gegnum 'Google Custom Search API' sem skilar til baka myndum af 'Google.com' eftir leitarorði sem slegið er inn í leitargluggann. Þar sem ég er ekki með fullan aðgang að API-inu er aðeins hægt að sækja 10 myndir í einu kalli. Til að bæta upp fyrir það er hægt að sækja næstu 10 með því að smella á örvatakkana sem birtast fyrir ofan myndirnar ef fleiri myndir eru í boði.</p>
+                    <p>Leitarvélin hefur tvö mismunandi útlit. Fyrra útlitið birtist þegar síðan er keyrð upp eða þegar flakkað er á milli síðna og seinna birtist þegar búið er að leita að myndum.</p>
+                    <p>Síðan er ekki full testuð þannig ennþá er hægt að lenda í böggum :)</p>
                 </div>
             </div>
             <div className="aboutContainer__card">
